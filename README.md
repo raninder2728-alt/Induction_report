@@ -148,3 +148,51 @@ Day 2 of the Student Induction Program at **GNDEC, Ludhiana** focused on assessi
 - ![GitHub Training Session](insert-image-link-here)
 
 > *(Replace the image links with your own GitHub-hosted image URLs)*
+
+---
+
+##  Day 3 – Exploring Science, Spirituality & Human Values (2nd August 2025, Saturday)
+
+### Day at a Glance
+
+| Time            | Activity                                                                 |
+|-----------------|--------------------------------------------------------------------------|
+| 9:00 AM – 11:00 AM | Expert Lecture by **Dr. Jaswinder Singh** (In-charge, IAPT) on *Maths, God, Universe & Science* |
+| 11:00 AM – 1:00 PM | Lecture on **Universal Human Values** by **Dr. Priya Darshani**        |
+
+### Insights & Experiences
+
+We began Day 3 with an incredibly thought-provoking session by **Dr. Jaswinder Singh**, the In-charge of IAPT (Indian Association of Physics Teachers). Held in the main auditorium, his talk beautifully connected the realms of **Mathematics**, **Science**, **the Universe**, and **spirituality**. It sparked curiosity and deep reflection among the students.
+
+Later, we had a meaningful session with **Dr. Priya Darshni**, who introduced us to the concept of **Universal Human Values**. She emphasized harmony in relationships, self-awareness, and the importance of human connection in our personal and professional lives. It was an inspiring and grounding experience.
+
+> _"Science explores the 'how', spirituality explores the 'why' – together they form the full picture."_
+
+---
+
+##  Day 4 – Exploring Academics, Peer Learning & Values (4th August 2025)
+
+### Day at a Glance
+
+| Time             | Activity                                                                 |
+|------------------|--------------------------------------------------------------------------|
+| 9:30 AM – 10:30 AM | Chemistry Lecture by **Prof. Mandeep Kaur** – Introduction to the curriculum and real-life applications of Chemistry |
+| 10:30 AM – 11:30 AM | **Peer-to-Peer Lecture** on *C++ Programming* by **Kusum and Friends**  |
+| 11:30 AM – 12:30 PM | **Break**                                                             |
+| 12:30 PM onwards   | **Universal Human Values – Part 2** by **Dr. Priya Darshani**          |
+| After the session  | Introduction to **Causmic Club** by college students                    |
+
+### Insights & Highlights
+
+- The day began with an enlightening **Chemistry lecture** by **Prof. Mandeep Kaur**, who introduced the curriculum for the upcoming semester and explained how Chemistry impacts daily life and technological advancements.
+  
+- This was followed by a **peer-led C++ programming session** by **Kusum and her peers**, showcasing the spirit of collaborative learning. It was both relatable and engaging for the first-year students.
+
+- After a refreshing break, we reassembled for **Part 2** of the **Universal Human Values** lecture by **Dr. Priya Darshni**. This session focused more deeply on **self-awareness, happiness, and ethical responsibility**.
+
+- The day concluded with an interactive introduction to the college’s **Causmic Club**, sharing key details about the club and encouraged the students to be a part of it.
+
+> _"Learning becomes more powerful when shared – peer learning opens new perspectives."_ 
+
+---
+
