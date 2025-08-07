@@ -1,4 +1,4 @@
-# Student Induction Programme Report  
+# Student Induction Programme Report 2025  
 **Program:** B.Tech in Computer Science and Engineering  
 **College:** Guru Nanak Dev Engineering College, Ludhiana  
 **Student Name:** *Mehakpreet Kaur*  
@@ -96,8 +96,6 @@ We ended the day with a **campus tour**, visiting departments and labs. This gav
 - ![Club Introductions](insert-image-link-here)
 - ![Group Photo](insert-image-link-here)
 
-> *(Replace the image links above with your own GitHub-hosted images)*
-
 ---
 
 ##  Day 2 – Proficiency Tests, Scholarships & Skill Development (1st August 2025)
@@ -147,11 +145,9 @@ Day 2 of the Student Induction Program at **GNDEC, Ludhiana** focused on assessi
 - ![Badi for Study Program Seminar](insert-image-link-here)
 - ![GitHub Training Session](insert-image-link-here)
 
-> *(Replace the image links with your own GitHub-hosted image URLs)*
-
 ---
 
-##  Day 3 – Exploring Science, Spirituality & Human Values (2nd August 2025, Saturday)
+##  Day 3 – Exploring Science, Spirituality & Human Values (2nd August 2025)
 
 ### Day at a Glance
 
@@ -180,7 +176,7 @@ Later, we had a meaningful session with **Dr. Priya Darshni**, who introduced us
 | 10:30 AM – 11:30 AM | **Peer-to-Peer Lecture** on *C++ Programming* by **Kusum and Friends**  |
 | 11:30 AM – 12:30 PM | **Break**                                                             |
 | 12:30 PM onwards   | **Universal Human Values – Part 2** by **Dr. Priya Darshani**          |
-| After the session  | Introduction to **Causmic Club** by college students                    |
+| After the session  | Introduction to **Causmic Club** by college students                   |
 
 ### Insights & Highlights
 
@@ -195,4 +191,117 @@ Later, we had a meaningful session with **Dr. Priya Darshni**, who introduced us
 > _"Learning becomes more powerful when shared – peer learning opens new perspectives."_ 
 
 ---
+
+## Day 5 – Subject Introductions & Classroom Interactions (5th August 2025)
+
+### Day at a Glance
+
+| Time               | Activity                                                                 |
+|--------------------|--------------------------------------------------------------------------|
+| 9:30 AM – 10:30 AM | **English Lecture** by **Prof. Manjot Kaur** |
+| 10:30 AM – 11:30 AM| **BEEE** lecture by **Prof. Harpreet Kaur** |
+| 11:30 AM – 12:30 PM| **Mathematics Lecture** by **Prof. Gagandeep Kaur** |
+
+### Insights & Highlights
+
+- The day started with our **first English lecture** conducted by **Prof. Manjul Kaur**, who explained the **curriculum structure**, **exam pattern**, and the **division of theory and practical marks**.  
+  Each student was also given a chance to **introduce themselves**, creating a warm and interactive classroom environment.
+
+- This was followed by a **BEE (Basic Electrical and Electronics)** session led by **Prof. Harpreet Kaur**.  
+  She engaged students in a conceptual discussion on **resistors, inductors, and capacitors**, and even gave a problem to solve, sparking interest in electrical concepts.
+
+- The final lecture of the day was **Mathematics** with **Prof. Gagandeep Kaur**.  
+  She not only introduced us to the subject but also gave valuable insights into **college life, expectations, and success tips** for the first year.
+
+> _"The foundation of a great academic journey begins with understanding and interaction."_
+
+---
+
+## Day 6 – Learning Together: From Code to Career Inspiration — (August 5, 2025)
+
+> _"Learning from peers and mentors alike helps us grow not just in knowledge but in confidence."_
+
+The sixth day of the induction programme was a blend of **peer-to-peer learning**, professional insights, and motivational addresses.
+
+### Peer-to-Peer Session on C++
+
+The day began with a practical and engaging session delivered by three of our seniors:
+- **Jagdeep Kaur** (IT Department)  
+- **Jashanpreet Kaur** (IT Department)  
+- **Gurleen Kaur** (Electronics Department)
+
+They introduced us to basic concepts of **C++ programming** and demonstrated simple programs live in class. We were encouraged to try them ourselves, making it a great opportunity to **learn by doing**.
+
+### Interactive Talk with Prof. Jaswant Singh
+
+Following the programming session, we had an interactive lecture by **Prof. Jaswant Singh** from the **Training & Placement Department**. He engaged the students with questions such as:
+- Why did you choose **Computer Science**?
+- Why GNE?
+
+He shared insights about:
+- How **AI is evolving rapidly**  
+- What the **job market** looks like  
+- How to align ourselves with future demands.
+
+### Special Address by Gurcharan Singh Grewal 
+
+After a break, we assembled in the auditorium where we were joined by **Chief Guest Gurcharan Singh Grewal*. His talk covered:
+- His journey and association with **GNDEC**
+- Teachings of **Guru Nanak Dev Ji**
+- How modern education is becoming business-oriented
+- Importance of **respecting teachers**  
+- Encouragement to become **job providers**, not just job seekers
+
+His speech was deeply motivational and thought-provoking.
+
+### Talk by Dr. Lakhveer Singh - CML
+
+The day concluded with an insightful session by **Dr. Lakhveer Singh**, in charge of the **Centre for Multi-faceted Learning (CML)**. He informed us about:
+- The purpose and offerings of the **CML center**  
+- Opportunities for **holistic development**
+- His openness to guide students individually
+- How to take advantage of **Swayam-NPTEL** online courses
+
+We also explored a few learning tasks with him during the session, making it very **hands-on and interactive**.
+
+---
+
+## Day 7 – Values, Awareness, and Digital Presence (7 August 2025)
+
+Our Day 7 started with **Dr. Harpreet Kaur Grewal**, HOD of Applied Science, welcoming and motivating the students with a short speech, teaching us about **morals and ethics**. This was followed by a **Mool Mantra recitation** session, done with our heads covered, aiming to help us **channelize our energy**.
+
+### 1. Session by Dr. Parminder Singh (Dean of Welfare)
+Dr. Parminder Singh delivered a presentation highlighting the significance of a **4-year degree** for skill development, personal growth, and building a strong social network. He encouraged students to **identify their weaknesses and work on them**, quoting that *“hard work has no substitute.”*  
+He also briefed us about college facilities such as:
+- Hostels
+- Library
+- Computer center
+- College portals
+
+He made us aware of opportunities through **sports**, **NSS**, and various **clubs and societies** available in the college.
+
+### 2. Presentation by Senior Students
+Senior student **Tarandeep Kaur** and her team introduced us to the **Tang website**, where students can publish their creative works under the college's name.  
+They also discussed:
+- The official **Instagram handle**
+- Several **student clubs and committees**
+
+### 3. Guidance from Dr. Harpreet Kaur Grewal
+Dr. Harpreet Kaur Grewal guided us to **manage all our certificates properly**, as they would be needed later in academic and administrative processes.
+
+### 4. Digital Marketing Club Introduction – Dr. Amit Kamra
+Dr. **Amit Kamra**, Assistant Professor, IT Department, introduced the **Digital Marketing Club**. He emphasized the value of **digital presence** and informed us that the club offers:
+- Career preparation
+- Creative learning
+- Collaborative environment  
+He also encouraged students to take part in the upcoming **video editing competition**.
+
+### 5. Exam Pattern & Portal Awareness – Dr. Randhir Singh
+Dr. **Randhir Singh**, Assistant Professor, Applied Science, discussed:
+- The **exam pattern**
+- Rules and regulations students must follow
+- The **academic portal** which will carry all relevant student information
+
+### 6. ID Card Making Process
+After all sessions, we were given a **short break**, following which our section was taken for the **ID card making process**. This was a key step in completing our onboarding and officially becoming part of the GNDEC student community.
 
