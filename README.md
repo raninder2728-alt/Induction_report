@@ -217,7 +217,7 @@ Later, we had a meaningful session with **Dr. Priya Darshni**, who introduced us
 
 ---
 
-## Day 6 – Learning Together: From Code to Career Inspiration — (August 5, 2025)
+## Day 6 – Learning Together: From Code to Career Inspiration (6th August 2025)
 
 > _"Learning from peers and mentors alike helps us grow not just in knowledge but in confidence."_
 
@@ -266,7 +266,7 @@ We also explored a few learning tasks with him during the session, making it ver
 
 ---
 
-## Day 7 – Values, Awareness, and Digital Presence (7 August 2025)
+## Day 7 – Values, Awareness, and Digital Presence (7th August 2025)
 
 Our Day 7 started with **Dr. Harpreet Kaur Grewal**, HOD of Applied Science, welcoming and motivating the students with a short speech, teaching us about **morals and ethics**. This was followed by a **Mool Mantra recitation** session, done with our heads covered, aiming to help us **channelize our energy**.
 
@@ -304,4 +304,31 @@ Dr. **Randhir Singh**, Assistant Professor, Applied Science, discussed:
 
 ### 6. ID Card Making Process
 After all sessions, we were given a **short break**, following which our section was taken for the **ID card making process**. This was a key step in completing our onboarding and officially becoming part of the GNDEC student community.
+
+---
+
+## Day 8 – Basics of Electrical Engineering & Chemistry Introduction (8th August 2025)
+
+Our day started at 9:00 AM with the first lecture on **BEEE (Basics of Electrics and Electronic Engineering)**, delivered by **Professor Harpreet Kaur**. The session lasted until 10:30 AM.  
+
+She explained key concepts such as:  
+- Conductors, insulators, and semiconductors  
+- Valence band and conduction band  
+- Potential difference, voltage, and electromotive force  
+- Ohm’s Law and resistance  
+
+We also solved a numerical problem together, and the professor’s explanations were very clear and helpful. Students took notes during the lecture to grasp the important concepts.
+
+From 10:30 AM to 12:00 PM, we attended the **Chemistry lecture** by **Professor Karan Bhalla**.  
+
+- The class started with student introductions where everyone shared their aspirations.  
+- The professor gave an overview of the **chemistry syllabus**, explaining the exam scheme, marks division, internal and external assessments, and rules.  
+- The first topic discussed was **hardness of water**, covering the differences between **hard water** and **soft water**.  
+- We also learned about **reverse osmosis**, and the definitions of **diffusion** and **osmosis**.  
+
+This session provided a solid foundation for the chemistry topics we will cover this year.
+
+---
+
+
 
