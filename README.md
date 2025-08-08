@@ -92,8 +92,8 @@ We ended the day with a **campus tour**, visiting departments and labs. This gav
 
 ### Memories
 
-- ![Auditorium Welcome Session](https://github.com/raninder2728-alt/Induction_report/blob/main/images/day1(1).jpg)
-- ![Club Introductions](insert-image-link-here)
+![Auditorium Welcome Session](https://github.com/raninder2728-alt/Induction_report/blob/main/images/day1(1).jpg)
+![Club Introductions](https://github.com/raninder2728-alt/Induction_report/blob/main/images/day1(2).jpg)
 - ![Group Photo](insert-image-link-here)
 
 ---
