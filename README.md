@@ -143,9 +143,8 @@ Day 2 of the Student Induction Program at **GNDEC, Ludhiana** focused on assessi
 
 ### Memories from Day 2
 
-- ![Proficiency Test in Progress](insert-image-link-here)
-- ![Badi for Study Program Seminar](insert-image-link-here)
-- ![GitHub Training Session](insert-image-link-here)
+![Github session by seniors](https://github.com/raninder2728-alt/Induction_report/blob/main/images/Day2.jpeg?raw=true)  
+![Students in Auditorium](https://github.com/raninder2728-alt/Induction_report/blob/main/images/Day2.jpg?raw=true)
 
 ---
 
