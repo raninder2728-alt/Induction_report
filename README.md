@@ -93,8 +93,10 @@ We ended the day with a **campus tour**, visiting departments and labs. This gav
 ### Memories
 
 ![Gurudwara Sahib](https://github.com/raninder2728-alt/Induction_report/blob/main/images/Day1%20(2).jpg?raw=true)  
-![Gurudwara Sahib](https://github.com/raninder2728-alt/Induction_report/blob/main/images/day1(2).jpg)  
-![Group Photo](insert-image-link-here)
+![Gurudwara Sahib](https://github.com/raninder2728-alt/Induction_report/blob/main/images/Day1%20(3).jpg?raw=true)  
+![Student Induction Programme](https://github.com/raninder2728-alt/Induction_report/blob/main/images/Day1%20(4).jpeg?raw=true)  
+![Chief Guests](https://github.com/raninder2728-alt/Induction_report/blob/main/images/Day1%20(5).jpeg?raw=true)  
+![Group Photo](https://github.com/raninder2728-alt/Induction_report/blob/main/images/Day1%20(1).jpeg?raw=true)
 
 ---
 
