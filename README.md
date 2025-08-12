@@ -279,8 +279,7 @@ We also explored a few learning tasks with him during the session, making it ver
 
 ### Memories
 
-![Day 6 at glance]()  
-
+![Day 6 at glance](https://github.com/raninder2728-alt/Induction_report/blob/main/images/day6.jpeg?raw=true)
 
 ---
 
