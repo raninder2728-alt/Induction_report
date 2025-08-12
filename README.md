@@ -197,7 +197,7 @@ Later, we had a meaningful session with **Dr. Priya Darshni**, who introduced us
 
 > _"Learning becomes more powerful when shared – peer learning opens new perspectives."_ 
 
-## Memories
+### Memories
 
 ![Chemistry lecture in process](https://github.com/raninder2728-alt/Induction_report/blob/main/images/d5photo%20(3).jpg?raw=true)  
 ![P2P lecture in process](https://github.com/raninder2728-alt/Induction_report/blob/main/images/d5photo%20(1).jpg?raw=true)  
@@ -276,6 +276,11 @@ The day concluded with an insightful session by **Dr. Lakhveer Singh**, in charg
 - How to take advantage of **Swayam-NPTEL** online courses
 
 We also explored a few learning tasks with him during the session, making it very **hands-on and interactive**.
+
+### Memories
+
+![Day 6 at glance]()  
+
 
 ---
 
