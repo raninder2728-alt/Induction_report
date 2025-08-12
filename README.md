@@ -141,7 +141,7 @@ Day 2 of the Student Induction Program at **GNDEC, Ludhiana** focused on assessi
 
 > “This session gave us a head-start into tools used by real-world developers and teams across the globe.”
 
-### Memories from Day 2
+### Memories
 
 ![Github session by seniors](https://github.com/raninder2728-alt/Induction_report/blob/main/images/Day2.jpeg?raw=true)  
 ![Students in Auditorium](https://github.com/raninder2728-alt/Induction_report/blob/main/images/Day2.jpg?raw=true)
@@ -164,6 +164,12 @@ We began Day 3 with an incredibly thought-provoking session by **Dr. Jaswinder S
 Later, we had a meaningful session with **Dr. Priya Darshni**, who introduced us to the concept of **Universal Human Values**. She emphasized harmony in relationships, self-awareness, and the importance of human connection in our personal and professional lives. It was an inspiring and grounding experience.
 
 > _"Science explores the 'how', spirituality explores the 'why' – together they form the full picture."_
+
+### Memories
+
+![Dr. Jaswinder Singh amid the session](https://github.com/raninder2728-alt/Induction_report/blob/main/images/Day3%20(2).jpeg?raw=true)  
+![Dr. Jaswinder Singh amid the session](https://github.com/raninder2728-alt/Induction_report/blob/main/images/Day3%20(3).jpeg?raw=true)  
+![Group Photo](https://github.com/raninder2728-alt/Induction_report/blob/main/images/Day3%20(1).jpg?raw=true)
 
 ---
 
@@ -190,6 +196,9 @@ Later, we had a meaningful session with **Dr. Priya Darshni**, who introduced us
 - The day concluded with an interactive introduction to the college’s **Causmic Club**, sharing key details about the club and encouraged the students to be a part of it.
 
 > _"Learning becomes more powerful when shared – peer learning opens new perspectives."_ 
+
+## Memories
+
 
 ---
 
