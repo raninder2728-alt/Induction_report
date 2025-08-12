@@ -199,6 +199,9 @@ Later, we had a meaningful session with **Dr. Priya Darshni**, who introduced us
 
 ## Memories
 
+![Chemistry lecture in process](https://github.com/raninder2728-alt/Induction_report/blob/main/images/d5photo%20(3).jpg?raw=true)  
+![P2P lecture in process](https://github.com/raninder2728-alt/Induction_report/blob/main/images/d5photo%20(1).jpg?raw=true)  
+![Universal Human Values session in process]()
 
 ---
 
