@@ -48,7 +48,7 @@ The first day of the induction program at **Guru Nanak Dev Engineering College, 
   - The role of **AI and tech evolution** in today’s job market
   - The importance of **skill-building**, club participation, and **social engagement**
 
-- **Sri Ravinder Garg** (Chief Guest) spoke on:
+- **Shri Ravinder Garg** (Chief Guest) spoke on:
   - The joint guidance of **parents and teachers**
   - The need for **prayer, hard work, resilience, and consistency**
   - Becoming a **valuable citizen** for society
