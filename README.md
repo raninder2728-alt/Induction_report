@@ -5,7 +5,7 @@
 **Registration Number:** 25101349  
 **Section:** CSD2  
 **Batch:** 2025–2029  
-**Date of Induction:** 31 July 2025 to 
+**Date of Induction:** 31 July 2025 to 8 August 2025
 
 ---
 
@@ -220,7 +220,7 @@ Later, we had a meaningful session with **Dr. Priya Darshni**, who introduced us
 - The day started with our **first English lecture** conducted by **Prof. Manjul Kaur**, who explained the **curriculum structure**, **exam pattern**, and the **division of theory and practical marks**.  
   Each student was also given a chance to **introduce themselves**, creating a warm and interactive classroom environment.
 
-- This was followed by a **BEE (Basic Electrical and Electronics)** session led by **Prof. Harpreet Kaur**.  
+- This was followed by a **BEEE (Basic Electrical and Electronics Engineering)** session led by **Prof. Harpreet Kaur**.  
   She engaged students in a conceptual discussion on **resistors, inductors, and capacitors**, and even gave a problem to solve, sparking interest in electrical concepts.
 
 - The final lecture of the day was **Mathematics** with **Prof. Gagandeep Kaur**.  
@@ -347,5 +347,14 @@ This session provided a solid foundation for the chemistry topics we will cover 
 
 ---
 
+## Conclusion  
+The induction program at GNDEC has been both informative and inspiring, laying a strong foundation for the academic journey ahead. Over the course of these days, I have gained valuable insights into the curriculum, exam patterns, and the various opportunities the college offers in academics, extracurricular activities, and personal growth. The sessions have not only helped me understand the structure of college life but have also encouraged me to identify my strengths and work on my weaknesses.  
+
+On a personal level, this experience has been a great way to connect with faculty and peers, explore different areas of interest, and develop a sense of belonging within the college community. It has motivated me to work hard, stay curious, and make the most of the resources and guidance available. This induction has truly marked the beginning of an exciting and meaningful chapter in my life.  
+
+---
+
+> **✨ THANK YOU ✨**  
+> I would like to extend my sincere gratitude to all the professors, coordinators, and senior students who made this induction program enriching and engaging. Your efforts have not only introduced us to the academic environment but also inspired us to strive for excellence in the years ahead.  
 
 
