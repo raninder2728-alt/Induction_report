@@ -78,7 +78,7 @@ The first day of the induction program at **Guru Nanak Dev Engineering College, 
   - **Computer Society of India (CSI)** — both highly recommended for CSE students
 
 - A session by faculty also covered:
-  - **Exam structure**
+  - Exam structure
   - Internal & external assessments
   - Passing criteria and grading system
 
