@@ -5,7 +5,7 @@
 **Registration Number:** 25101349  
 **Section:** CSD2  
 **Batch:** 2025–2029  
-**Date of Induction:** 31 July 2025 to [End Date]
+**Date of Induction:** 31 July 2025 to 
 
 ---
 
